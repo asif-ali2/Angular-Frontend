@@ -1,0 +1,15 @@
+.main-container {
+  width: 80%;
+  margin: 5rem auto;
+}
+
+.btn-cls {
+  width: 80%;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.error-cls {
+  color: red;
+}
